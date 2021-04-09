@@ -2,7 +2,7 @@
 
 [![stats](https://github-readme-stats.vercel.app/api?username=lachlan-white&theme=algolia&show_icons=true)](https://github.com/lachlan-white/lachlan-white)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lachlan-white&theme=algolia&langs_count=10&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lachlan-white)](https://github.com/lachlan-white/lachlan-white)
 
 
 
