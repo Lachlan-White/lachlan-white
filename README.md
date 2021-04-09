@@ -1,20 +1,5 @@
-### Hi there 👋
-
-[![stats](https://github-readme-stats.vercel.app/api?username=lachlan-white&theme=algolia&show_icons=true)](https://github.com/lachlan-white/lachlan-white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lachlan-White)](https://github.com/lachlan-white/)
-
-
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lachlanwhite&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-
-
-
-
-<!--
 **Lachlan-White/lachlan-white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
