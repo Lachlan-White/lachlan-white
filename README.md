@@ -2,9 +2,10 @@
 
 [![stats](https://github-readme-stats.vercel.app/api?username=lachlan-white&theme=algolia&show_icons=true)](https://github.com/lachlan-white/lachlan-white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lachlan-white)](https://github.com/lachlan-white/lachlan-white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lachlan-white)](https://github.com/lachlan-white/)
 
 
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lachlanwhite)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
