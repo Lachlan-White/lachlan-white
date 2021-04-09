@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+[![stats](https://github-readme-stats.vercel.app/api?username=lachlan-white&theme=algolia&show_icons=true)](https://github.com/lachlan-white/lachlan-white)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lachlan-white&theme=algolia&langs_count=10&layout=compact)
+
+
+
+
+
+
+
+
+
+
 <!--
 **Lachlan-White/lachlan-white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
