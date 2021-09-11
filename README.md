@@ -1,9 +1,5 @@
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lachlanwhite&layout=compact&theme=default)](https://wakatime.com/@lachlanwhite)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lachlan-White)](https://github.com/lachlanwhite/github-readme-stats)
-
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lachlan-White&show_icons=true" />
 
 
