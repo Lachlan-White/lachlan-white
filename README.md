@@ -1,8 +1,6 @@
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lachlanwhite&layout=compact&theme=default)](https://wakatime.com/@lachlanwhite)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Lachlan-White&show_icons=true" />
-
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lachlan-White)](https://github.com/Lachlan-White/github-readme-stats)
 
 <!--
 **Lachlan-White/lachlan-white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
