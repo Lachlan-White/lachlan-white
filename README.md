@@ -1,6 +1,7 @@
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lachlanwhite&layout=compact&theme=default)](https://wakatime.com/@lachlanwhite)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lachlan-White)](https://github.com/Lachlan-White/github-readme-stats)
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lachlanwhite&layout=compact&theme=default)(https://wakatime.com/@lachlanwhite)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lachlan-White)(https://github.com/Lachlan-White/github-readme-stats)
+![Lachie's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matsest&hide=javascript,html,css&layout=compact&langs_count=8)
 
 <!--
 **Lachlan-White/lachlan-white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
